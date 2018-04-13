@@ -1,5 +1,5 @@
 {
-  "name": "@mcph/lwip",
+  "name": "@petrocloud/lwip",
   "version": "1.0.2",
   "main": "lib/obtain.js",
   "typings": "typings.d.ts",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EyalAr/lwip.git"
+    "url": "https://github.com/PetroCloud/lwip.git"
   },
   "keywords": [
     "image",
@@ -56,12 +56,7 @@
     "contain",
     "cover"
   ],
-  "author": "Eyal Arubas <eyalarubas@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/EyalAr/lwip/issues"
-  },
-  "homepage": "https://github.com/EyalAr/lwip",
   "prettier": {
     "trailingComma": "all",
     "singleQuote": true,
